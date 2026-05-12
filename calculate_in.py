@@ -11,4 +11,4 @@ class calculator:
         else:
             return "Cannot divide by zero"
 cal =calculator()
-print(cal.divide(10,5))
+print(cal.divide(10,8))
